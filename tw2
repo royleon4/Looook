@@ -1,237 +1,175 @@
-##台-新聞##
-公視,https://epg.pm/stream/2482c879b185e962c8fc9297ff31e3e291277ef0423a4f207ea3b59f3ffd4b27.m3u8
-公視,https://epg.pm/stream/5271b3ab7d8b56b59b7b781e13fd2c6ade753acc6348f06165d1a122a5c0b9d9.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-民視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-民視新聞 HD,https://live.6zxr.xyz/tvbs/index.m3u8?WithCaption
-民視新聞 HD,https://epg.pm/stream/035e006743940c0c22eeec651dfbdcba37667a52462caa1f27f290123e8a82b9.php
-民視新聞 HD,https://epg.pm/stream/271f44cdbafc0a16705d640791c256569605c0948b505021df516a62883b7928.php
-民視新聞 HD,https://epg.pm/stream/42a8ce539fbfd69255bc4a1c43c42823b6de7f33c47febf60a8d5f756ec6b9ee.m3u8
-民視新聞 HD,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
-民視新聞 HD,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
-民視新聞 HD,https://epg.pm/stream/ee878dcde6496d9590664c475232b5b5ca41451140cb0e0d257c74251f98f1fc.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-台視新聞 HD,https://git.io/JgkxY
-台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-台視新聞 HD,https://epg.pm/stream/0156ad3eb422b313212e69a07c29e20f051fff6f0832d1e5f0443f8a283c613e.php
-台視新聞 HD,https://epg.pm/stream/457c8f377b33f5460a1e4159892afaa698c82ad53dbbe7e65a924e6d1250ef8a.m3u8
-台視新聞 HD,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
-台視新聞 HD,https://epg.pm/stream/9aa7d5985ae3414be0e7c72c5bb545c421d8831e7618b3c58b3a5b82a70f4a42.m3u8
-台視新聞 HD,https://epg.pm/stream/e3e908b3a9db0385d0af327e649962542feb341c4fb3b438e11cc4c6b6dfc4eb.m3u8
-中視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-中視新聞 HD,https://git.io/Jgkxz
-中視新聞 HD LIVE,https://epg.pm/stream/257429758c4554ee730142904bc2861b4a0b1d779824468e71d24d310c861e14.m3u8
-中視新聞 HD,https://epg.pm/stream/2f123ed95c80d333e1fce5dcc22907fac992c90f4b165fc4a036fac576d99949.php
-中視新聞 HD,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
-中視新聞 HD,https://epg.pm/stream/868b0db54bd3ea6c84265d8acc929d250eb5f0b16ed3f1262d0d7385ab1ac17e.m3u8
-中視新聞 HD,https://epg.pm/stream/c10e302f729d4127475978168c3e749a7982be1b2ecdbe4ac80f491f59eb360f.m3u8
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
-華視新聞資訊 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-華視新聞資訊 HD,https://epg.pm/stream/00210639b108285f5589b5a8f37b5b95a2d4e3878db44e6afe7f8b719add80f2.m3u8
-華視新聞資訊 HD,https://epg.pm/stream/5d2364d6b8aeec0d1c2f4f1c7153dcb5060c14235c535480daf56304061a3bd4.php
-TVBS NEWS,https://epg.pm/stream/31896c8212baf4a2f3adf4764519cf9b61d587ad78b244e4f5543c0bcddb005a.m3u8
-TVBS新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞 HD,rtmp://59.124.75.138/sat/tv551
-TVBS新聞 HD,https://live.6zxr.xyz/tvbs56/index.m3u8?WithCaption
-TVBS新聞 HD,https://epg.pm/stream/43712ed6dab7923b7dea00642b5d480dfa0e7e058813646d0591f1a814b9c028.php
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新聞,https://epg.pm/stream/215ede58359c29ec190657d813abcc47baf7316e7ed87c97638c7bb733df304a.m3u8
-TVBS新聞,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d655991d3932f7e34d0.m3u8
-TVBS新聞,https://epg.pm/stream/89b9d65ef51499ec2871ad2cdc89fbac6b738293ff0b5fb873a7c1accedd446e.php
-TVBS新聞,https://epg.pm/stream/ba0c0bbc6995c60e6f017a408ac39421d01c631f558789cde25ad085eeabf16f.m3u8
-中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-中天新聞 HD,https://live.6zxr.xyz/ztxw/index.m3u8?WithCaption
-中天新聞 HD,https://epg.pm/stream/68ba78adbb28efc7d4aba7234d1c380b9ee45b7a0aed01da42aafac16697d54d.php
-中天新聞 HD,https://epg.pm/stream/71ff2a0c621b16fbbcf5712643f62b3cb5f3e0739ae709a05f4976ea1fd9aaca.m3u8
-中天新聞 HD,https://epg.pm/stream/d9c577f06b10caeb4a8d18cea2fe987f785ffcbde7e9da0a62ab95fa0aadba54.php
-中天新聞 HD,https://epg.pm/stream/ea6664a7353f6c01337c0a6e9b47a854973d51f8613c2d9602f5bb63b2fbee49.m3u8
-年代新聞 HD,http://60.251.59.180:8502/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞 HD,https://epg.pm/stream/409d3a38a22cd55a5f5f4b5808734a6ee0312f60d4d30e6cfc7ac72ab446076e.m3u8
-年代新聞 HD,https://epg.pm/stream/8e842dc33ce033b87046b499a09058c175d7c1f958e23ef4e94acb4e92512408.m3u8
-三立新聞 LIVE,https://epg.pm/stream/3848ccca3cfa8bb7213ddac09f42ca87c13dc3bf277c8249d7e4faafcc2050df.m3u8
-三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,https://epg.pm/stream/453348bc0486df43b24e31dac74871025db6b58af9b119e1d3cd72f14d445b85.m3u8
-三立新聞,https://epg.pm/stream/9b2555f4f5a20a9b0f80dbd51b4683760d617644c44a353299ca4b12d501a50b.m3u8
-三立新聞,https://epg.pm/stream/f692b0598b81b672cd23f46058bc29114a03db5c6efbbc64bcddbb26f0dddb0a.m3u8
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立iNEWS,https://git.io/Jgkxj
-三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-三立iNEWS,https://live.6zxr.xyz/twtv/index.m3u8?WithCaption
-三立iNEWS,https://epg.pm/stream/17b9026c3c8b88f7d16f6cbbd7593d9d375fcb4ed6d796991d34ed84d280e61d.m3u8
-三立iNEWS,https://epg.pm/stream/2a6ab306d5b0c6b8d0e70245a98ec6b71ca3a6a97e3c90b3efa076ca9397b26f.m3u8
-三立iNEWS,https://epg.pm/stream/53267293c2d590385fd8c655b84d3d396813aab146d56ad2540d6460dd8dc591.php
-三立iNEWS,https://epg.pm/stream/567ec3c3df98ae15d61f84993df4c3ce31785ae4d76ea4fb57a25fc192cec634.php
-三立iNEWS,https://epg.pm/stream/9a8ffe4ba8b50a8e8884f2b09af132180b5d024cc0767b31affc44deef55a911.m3u8
-三立iNEWS,https://epg.pm/stream/a100a97ba72fd64c2aed883a33214910c0b568729fe17a66956cc5d7686de3f4.php
-三立iNEWS,https://epg.pm/stream/b15521ce7edfa23be3131d8a3a1c130e70146e4653db9712e9daa3c56d300f81.php
-三立iNEWS,https://epg.pm/stream/bc4b565ba0fdc9f8661e6b961dcde4b0040ada3d198582b378e93231e767c33a.php
-東森新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森新聞 HD,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
-東森新聞 HD,https://epg.pm/stream/5ee88fee4c98098c416e20ace41a15ce49b7c84ae1cffe7c55a5f2d2029e2e19.m3u8
-東森新聞 HD,https://epg.pm/stream/85ab31b7aa942a3fde0cc34a69922b6378f72ecd3ef5fec4d23d64678aef6ec8.m3u8
-東森新聞 HD,https://epg.pm/stream/93d04943e5226e866ca2af797137721af93506d89e9382394e4fbdb33b063500.m3u8
-東森新聞 HD,https://epg.pm/stream/cf61d156ac8dddc21c108306b34f21706dcbdbabbd870f020f0a1fc29e8e96d0.m3u8
-東森 LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-東森 LIVE,https://live.6zxr.xyz/dsxw/index.m3u8?WithCaption
-東森 LIVE,https://epg.pm/stream/7fc9a7b3613634135244f77a3fa05745c4ad3e5c5293513461f91e5aa4785c82.php
-東森財經新聞1 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-東森財經新聞1 HD,rtmp://59.124.75.138/sat/tv571
-東森財經新聞1 HD,https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
-東森財經新聞2 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-東森財經新聞2 HD,https://git.io/Jgkpc
-東森財經新聞2 HD,https://epg.pm/stream/2542667bd5a4c00882e4275d2713961009aa17f0397831e1830f3ebd3de6ae6d.php
-東森財經新聞2 HD,https://epg.pm/stream/3f418ed867a257c57bd74779439147c9788557cd3c6766ca28ae8a8a9ca5040d.m3u8
-東森財經新聞2 HD,https://epg.pm/stream/8ae9925c4c20b3bbb0eabb43facbc74782dcc9aa57398cbfff02f5b14d912e00.m3u8
-東森財經新聞 HD LIVE,https://epg.pm/stream/3f033ad20b8cbcd9fb2e72e72d7eec529f7b7f09181b4051146de288e33edacc.m3u8
-東森財經新聞 HD LIVE,https://epg.pm/stream/fe6fc603c9c958574f78101d0ba91b0421ae0fe864faa1411972971665643095.m3u8
-壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞 HD,http://stream.nexttv.com.tw/n001/playlist.m3u8
-壹新聞 HD,http://60.251.59.180:8511/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-壹新聞 HD,https://epg.pm/stream/05d59ff1d2b3007d795963eb096278a7d6ce0a0e91f8553dfcee5ab84ed92e0c.m3u8
-壹新聞 HD,https://epg.pm/stream/86ae52ca0244e23508c8fc2af5542f3b96c37ee47f0b8bf70a0b496d530660ef.m3u8
-壹新聞 HD,https://epg.pm/stream/b81b1e744b2564a1882cb7abcb645ce685801ef1bcd668cb6f5e6fa3bc594442.m3u8
-壹新聞 HD,https://epg.pm/stream/bf33734d5fa3802a2733d8b740148325044971fd2c51e95111ee024e5039ede7.m3u8
-壹新聞 HD,https://epg.pm/stream/c8adc8d5f763abbf2ba2253f0508544df4c8b61ae9aa4190a694afd98a9ec1aa.m3u8
-壹新聞 HD,https://epg.pm/stream/f096072bcadc07f2218ebe20fe047d3a3c37af7bd70f5c2328f45530f6f74387.m3u8
-壹新聞 HD,https://epg.pm/stream/ff988bfbea09f18f54d4c931dda06ea6be914998e5beff5cd2aecd9b0fcc85c0.m3u8
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-鏡新聞,https://epg.pm/stream/942337a1dd782860a0f6b4749d6c57f49c2b05c6f2c44e6c1bfd80c730d548b4.php
-鏡新聞,https://epg.pm/stream/e373e57a0e79f6a0927b9a77d74d1bd5882af0ac225331db313aca282c203370.m3u8
-寰宇新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-寰宇新聞 HD,https://epg.pm/stream/26c3db02da972f97e6ba9a901209b460a87e44fffb4eb4db8bdb699aa81b24c1.m3u8
-寰宇新聞 HD,https://epg.pm/stream/64ce0977a8ef4b7d68f8bc54f2aadcc1a021835a7f53aebd9199c199bc99cddc.php
-寰宇新聞,http://60.251.59.180:8510/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-寰宇新聞,https://live.6zxr.xyz/fhwszw/index.m3u8?WithCaption
-寰宇新聞,https://epg.pm/stream/9af1335b80e401babf373367f9c8a216ce6e278bc9a7f1224b0b79ced8e65896.m3u8
-寰宇新聞台灣台,https://git.io/JgkpO
-寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-寰宇新聞台灣台,https://epg.pm/stream/18ea425157b03b0c9c24e40646e08563be2f4536d9a087e3300fb55f9459678a.m3u8
-寰宇新聞台灣台,https://epg.pm/stream/26c5cdd5c7498132ecbde206b6ac0c9b970c6712560e8963da5618e338be8fc8.m3u8
-寰宇新聞台灣台,https://epg.pm/stream/e8e15da90ef4a577f6a2788355ce82af91541dac1a9c8d524425030c5cb2b3e8.m3u8
-Now 直播331台,https://api.leonardpark.dev/live/now/331
-Now 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-發現心嘉義,http://61.58.60.230:9319/live/100.m3u8
-嘉義SHOW,http://61.58.60.230:9319/live/101.m3u8
-##
-
-
-##台-綜合戲劇##
-公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-公視戲劇,https://epg.pm/stream/79b1f354a2eebf9ec184b24930e4bee9df3a3fe607a10d389c7bba12720aad49.php
-公視戲劇,https://epg.pm/stream/f95751371b1d4d648b64a0367e7115de5a4f9247fdb50bc87546a5338e11dfc4.php
-民視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
-民視 HD,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
-民視 HD,rtmp://59.124.75.138/sat/tv051
-民視 HD,https://epg.pm/stream/7665ebec2d214500bebec4193dc12a80a7581aed580a4568bd444b388c93569b.php
-民視 HD,https://epg.pm/stream/aa89cf7c9c65b9fb36db6518566af889bdad78ecbfa3d5f60cebeb9f4d667a1b.m3u8
-民視 HD,https://epg.pm/stream/c1ef730e7f6a96418a8bbf7d641b5153316420dd7f2707be74699a7919afb5e4.php
-民視台灣 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民視台灣 HD,http://seb.sason.top/ptv/ftv.php?id=tw
-民視臺灣 HD,https://epg.pm/stream/3343892b60974561dd45a6c6b3a282e9b1cb9ac7a846d63a4b3a382f24c5a783.m3u8
-民視臺灣 HD,https://epg.pm/stream/f5cf1c8c84abaf71681f7af26c62507c528950bf9d0e8829e9c96322fdfee503.php
-民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-民視旅遊,https://epg.pm/stream/83ec1b3ab81da69ff6c3db81b45e5838c740634a28c82f68376f44eecd6d3563.php
-民視旅遊,https://epg.pm/stream/8655030d6311223da2d023a2a713b56ed78aa0fd3aae2fc9e5dcbadb6b5d3be4.php
-民視旅遊,https://epg.pm/stream/b9c36ebb4eb64e4eda11d9dd3dcaea693019f3efc77eba5653617fe238b8a927.php
-民視旅遊,https://epg.pm/stream/dea3c086f0084e3b8e35a820ece62459455433adefe59941a06fa88f14d474ee.php
-民視旅遊,https://epg.pm/stream/e81be8d062f68f76f5b8f62003ff4cb8783a224ee5a90211a75f6341981e37db.php
-民視第一 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視第一 HD,http://seb.sason.top/ptv/ftv.php?id=dy
-民視第一 HD,https://epg.pm/stream/58297551cb9bfea313ac15135434a81c77c86348d0f6df42fc86ef08a0c7da79.m3u8
-民視第一 HD,https://epg.pm/stream/5d3c46f60359ab4e5081bac6a04b5fa15f09bac724d40d5b764d4243321cf1aa.php
-民視第一 HD,https://epg.pm/stream/a2450ba4edbafbba4e1fe29437a2ddff1110bd89df4f3d972755674a1364eb90.php
-民視第一 HD,https://epg.pm/stream/bf4058c682db5a3d74dd87415768602e55c630a275b59052c509fb7c61eb2c51.php
-民視第一 HD,https://epg.pm/stream/cdc4939706c1ef0c615cf0d04b74eefbdf2e881ccf26e12f0060fb4a90830972.php
-民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
-民視綜藝,https://epg.pm/stream/2f63f05ff01bb88ee8261d580b034656ed602c2c286279989970014e5124a92d.php
-民視綜藝,https://epg.pm/stream/3d54ed839bfb57330973d186703a6b01f7a1858cb37475be558fb91d1f2da3ec.php
-民視綜藝,https://epg.pm/stream/f99cfbcda17119d276baf4f6e18bccc65118a1210a7b8802697c91030ae1a90a.php
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視影劇,https://epg.pm/stream/794cd14e15d3076f4364c886ca4f6fe3c5cce1c3df897c2b80415f2082446e9e.php
-民視影劇,https://epg.pm/stream/b18260d5fc2f9efb28bfec92cfc6cd2cd5a65b5d6470f9b4980e9963a04b4b90.php
-民視影劇,https://epg.pm/stream/b220b657833c7a3c015c68da33b127faaee1a6609ce1a604fe3f851ba96c8b34.php
-民視影劇,https://epg.pm/stream/b643be628837f1e5c21407ab59cfd60d076b759e507a68caebb62473fedef620.php
-台視 HD,rtmp://59.124.75.138/sat/tv071
-台視 HD,https://epg.pm/stream/229aae109f289aa22832d00bcc14cdd05f581f817b4b4317a2324365ad150ff7.m3u8
-台視 HD,https://epg.pm/stream/56b16edcd5127e2d88cf257273a9a8f9c6da88dc02ab9d0c86aec933d7b5c362.m3u8
-台視 HD,https://epg.pm/stream/b494b0417c1eca7819e8ddc40b7e8ae71acdc2e6a6fe089d91f60681fec4abf5.m3u8
-中視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-中視 HD,rtmp://59.124.75.138/sat/tv091
-中視 HD,https://epg.pm/stream/91a8a85e3429c17792ea03566f52f1ea72bd3f5e71d90f923a6cc3552fa26b0e.php
-中視經典 HD,https://epg.pm/stream/17bc93369d57b5ec35aa7f009c2e42ddab99828d45a051b30a27bd7ed4f97e28.m3u8
-華視 HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-華視 HD,rtmp://59.124.75.138/sat/tv111
-華視 HD,https://epg.pm/stream/6badb81ca1f0d626407eb20167a79bb2e355f053ab730f2fd3eb50e7472e61ef.php
-華視 HD,https://epg.pm/stream/c30733801f75330bf636b27269e6cffece818fa88cb5531246d6085f6b441715.m3u8
-華視 HD,https://epg.pm/stream/d95bf7c2637e700978d04979226c8907dae931338a98cf04bf4b6417cd48361c.m3u8
-中天綜合 HD,https://epg.pm/stream/216043806d6ddff851e5c33f0447955633610acb3cf2198fb204a10f67ffc3d9.m3u8
-中天娛樂 HD,https://epg.pm/stream/b5ec18869bfb80c4b566234017233428f818e7af7a6649cb9edb6105f126a660.m3u8
-中天娛樂,https://epg.pm/stream/0ff3e002f0ebc26d2f99cf448f96265587388463681ed46fbea840651e8e7630.m3u8
-八大娛樂 HD,https://epg.pm/stream/af0fc5f8d84234f4c1fc7fbbce66ac24924c5d765993d3735f45ae1584018b2a.m3u8
-八大戲劇 HD,https://epg.pm/stream/45b361920f846bafa868768fb490cca0e806800f50065128915d681c34477e13.m3u8
-八大戲劇 HD,https://epg.pm/stream/5bba040ae930011ca58b31ce0a0dc75926bb6c515a1c10a92980a182863f9b88.m3u8
-八大戲劇 HD,https://epg.pm/stream/cefdbe4d016e7270fb285144f1d694d0a57d652f56a07fb6a0542005aa55bbb7.m3u8
-三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-JET綜合,https://epg.pm/stream/d32cd45d3c5d7bf160a47335450e9e03afb133933447c3d182441a9c97cc67d8.m3u8
-年代MUCH,https://epg.pm/stream/175e9b07d83b66ba00b5d1534b4d593ffb48389ffce07f9a2fe04da94d92a96b.m3u
-Star World,https://epg.pm/stream/1d3fd72f8fe43eba11ec0a79648640112df61072803e3963382629054c7c0c49.m3u8
-Star World,https://epg.pm/stream/5aece4cac589852897e17c90bbed388f707663aeb70e056481013167343ae7e5.m3u8
-Star World,https://epg.pm/stream/631340203ef9abe4c3778678d8171c772a6ebd79a7b687d7085a917448ac0e0e.m3u8
-東森綜合 HD,https://epg.pm/stream/47671aea6488f9c34640fc0f85daef95775d178e8f6544491666f62914440fc0.m3u8
-東森綜合 HD,https://epg.pm/stream/535d3623164affd5279aa601170e1224d3fd85de81c496ba45dc4d1b9a0b91ee.m3u8
-東森綜合 HD,https://epg.pm/stream/dd04d898bc4d5f8887da1102ee9ad37209dc0b01f8c0644fa151c7105a71a771.m3u8
-東森超視 HD,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
-東森超視 HD,http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
-東森超視 HD,rtmp://59.124.75.138/sat/tv331
-東森超視 HD,https://epg.pm/stream/07bed94c0084139a25d3d16ac2badccd08d9ec3e0b4ba1859537a61515fe66e1.m3u8
-東森超視 HD,https://epg.pm/stream/0e537fb244117a9e98226fff0dd9b79da639a84d0f03838d1a36f6001ed909e4.m3u8
-東森超視 HD,https://epg.pm/stream/d3388192f8a4dd1d67b140c3b643689fe36b5ff23957709fca9d132d489d6686.m3u8
-東森超視,https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
-TVBS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS HD LIVE,https://epg.pm/stream/16283b63d7e504d79b517140ed4df01a4fc5f49056634dbf7026a9604048c02b.m3u8
-TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
-國興衛視,https://epg.pm/stream/01430c9c7705b7555093cd9a94dd522a324e784965b6a93287028738850b6b29.m3u8
-國興衛視,https://epg.pm/stream/3416108e391f72aedce203f4fb512091385c15e74843a7895104770191fe7fa1.m3u8
-國興衛視,https://epg.pm/stream/3487a8a208d88266fbd5c16fc1b3a3a873ed8b706fc1db521ceef7cd772f67cc.m3u8
-衛視中文台 HD,https://epg.pm/stream/a08a8ccce983cd676239af1dfd0c8052994a0e3045626cf6f5eae38d28cde44d.m3u8
-緯來日本 HD,http://liuy.usa7.20212021.ga/ns.php?id=10
-緯來日本 HD,rtmp://59.124.75.138/sat/tv771
-緯來日本 HD,https://epg.pm/stream/2bb7c3d9274ddd863fb1849727eb1561e260e4ba16130bc39cef1155d9996d31.m3u8
-緯來日本 HD,https://epg.pm/stream/64cbbbe70f3918c971d1f2fc725eaba296fc5133229524b7a1c6b66668d765ed.m3u8
-緯來育樂 HD,rtmp://59.124.75.138/sat/tv701
-緯來育樂 HD,https://epg.pm/stream/261729ec5b6b86f55429460cbca86af0eca096d4a4097155841df94e71ef9686.m3u8
-緯來育樂 HD,https://epg.pm/stream/6627f39d2856fa4f3ffc2b67cfac157517e7bf612785b6ce3f32e872189330ff.m3u8
-緯來育樂 HD,https://epg.pm/stream/c7171917540c6f997bc2eb23c7216e4f775d436c8636cbd99302ef2447a3a228.m3u8
-緯來綜合 HD,http://liuy.usa7.20212021.ga/ns.php?id=12
-緯來綜合,https://epg.pm/stream/bb3009350b1a94f58f5d7306dda15a22f868ffd92b2b349d10f72164ad248ee3.m3u8
-緯來戲劇 HD,https://epg.pm/stream/29fe76840b61ddab0329089b1f83b93d1c675d5f444e2f99b296d643ab0416d3.m3u8
-緯來戲劇 HD,https://epg.pm/stream/9710a57e63fc0dc7cad29c5bdbd81edbe2708b24d13a5f698cda040fd714d75b.m3u8
-MOMO綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-AXN,https://epg.pm/stream/a4f9f15bafad647f8ad8eeadd00618f6aef0113c3a7fd612b3662c0cd007a71d.m3u8
-AXN,https://epg.pm/stream/c8b8c0a02f0252cd6dbbdf276f15d77c8eb298c88a9705c462d69b2b3ee03cee.m3u8
-AXN,https://epg.pm/stream/dfa8f4e0faecccce782dc11d7746c5eb88e0da426006efabc53b82b94869f7fd.m3u8
-韓綜-Runningman,http://36.101.206.161/txdirect.hls.huya.com/huyalive//1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8?wsSecret=6cc02ea368ed9cb102fb0d8a8f2ac592&wsTime=626d25d1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
-韓綜-Runningman,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
-韓綜-Runningman,http://epg.112114.xyz/douyu/131977
-韓綜-Runningman,http://epg.112114.xyz/douyu/7298973
-ELTA影劇,http://209.141.56.65/nmtv.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-EYE TV戲劇,https://epg.pm/stream/9001fef653be98d3945aa605ed32d62a5692fbcb9c9cbe821038923194f4db5f.m3u8
-靖天日本,https://epg.pm/stream/b897f964e67bda641aaa799ab41f7479b699e7f81706a40130061d18
+﻿TVBS HD,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
+TVBS HD b,tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
+TVBS HD b2,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
+TVBS新聞台,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
+TVBS歡樂台,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo
+三立新聞,tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ
+三立台湾台,tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
+三立綜合台,tvbus://5wxNvjVtyjVq39hnew1Y55rvTnU1ULS9nuomHn6rSYkt23wSfNvscKmvCpFe8
+三立都會台,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
+三立iNEWS,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
+三立戲劇台,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
+東森新聞,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
+東森財經新聞,tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB
+東森綜合,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z
+東森超視,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH
+東森戲劇,tvbus://5yfhooLEp2fj8eQP3MZcLVCHRTuQe9ByW9T6Hj5DY4rJjhFUzB2BENnEBWKuQ
+東森戲劇 b,tvbus://5oVqYGutbkbRbkZa9DXwjDtAjLHMQ2V8HZ5EF73Zy8jcYEZbJAr2HURvqftBL
+東森電影,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
+東森羊片,tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My
+東森幼幼,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd
+中天新聞,tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS
+中天亚洲,tvbus://7CVqdKzUR9iqkby7NK9YFXivwbbUE3CAQQuEc7tUax5LKtY2Z6
+中天綜合,tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN
+中天娛樂,tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R
+民视,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
+民视新聞台,tvbus://6jFetiFjCWXsqPDsuGyy49zbmRtbHmkoosUuDtmYR4W89jPaxqfeRLScGUYwB
+民視台灣台,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+民視第一台,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+中视,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb
+中视新聞,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
+中视精采,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
+中視經典,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
+台视,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
+台视新聞,tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
+台视綜合,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
+台視財經,tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
+華視,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx
+華视新聞資訊,tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
+華視教育體育文化,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
+公视,tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
+公视台語台,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
+公視3,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
+亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
+美食星球频道,tvbus://63uxhzeBficQALWigXLjuifUxLJH9CsqtXXVjTDCQyXGBxGgXTzxVucFY1x35
+八大第1台,tvbus://5cn9j1kJ9kuy7UYaPW6MPuDZ2YjZ5qWU6uQTvWehGFjRoujhsZkt6RrrTSKuP
+八大综合台,tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q
+八大娛樂台,tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
+八大戲劇台,tvbus://5upkUXxwXcjLDtUuffF2ZPfQiCEbDgvhbP8GU7yocirn9qrfRsvjZeq3uaER9
+EYE TV戲劇台,tvbus://5WmNR3P9mdwzYuLBr8ecBLi9m8V7DjTJfm4SgM4tmqQqr7RMiFASqTS8E29bH
+EYE TV旅遊台,tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJBc
+JET综合,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
+MOMO亲子台,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
+衛視中文台,tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW
+衛視電影台,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
+衛視卡式台,tvbus://6H9Sd3UuK8sb5xSWCM7xbRhGstVdLsTYEgpVSobHd4j1VkreoD5YMiQxxQtqT
+壹新聞,tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP
+壹新聞 b,tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X
+壹綜合,tvbus://6JoHPN2vJPd74ovcY8E7CegLmiCbQjEYzrRVVkihK18qTR8giDMX1eqzQaGNn
+寰宇新聞台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
+寰宇新聞台湾台,tvbus://5wxL2ywZEn7YoKudKyqbJtKaL2Qj3DL4wjjq5BQ7NQCjJoC2YKg21Xwz7tU27
+寰宇综合,tvbus://5f4kxWyyy3TUyNbMWFS3ve28vpr4RNs69W8C5XMdveFUUnDdpBYWscA4vMFVB
+非凡新聞,tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q
+非凡商業,tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
+年代新聞,tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
+ELTA影劇台,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
+ELTA綜合台,tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
+ELTA體育1台,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
+ELTA體育1台 b,tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
+ELTA體育2台,tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7
+ELTA體育2台 b,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
+ELTA體育3台,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
+ELTA體育3台 b,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
+緯來體育,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
+緯來體育 b,tvbus://5LzKbAJcgSpPhQ2ZXtBud7KDZFWkwBj8BuUYV8a5sc54cQKKoBSXMFRLxYRxQ
+緯來戲劇,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
+緯來綜合,tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7
+緯來育樂,tvbus://5XuZLifLBB4dzkfzoKA93WCdigZmBRzSbUBvRzJ1QjaJd7ecS9gdMGdKLetfB
+緯來精采台,tvbus://7FCw8bqAmBNGLei5MTUjX8a9F3A4DrdNf58N6D9PR9QBt3ynoD
+緯來電影,tvbus://5XDwXtHqpxQFkV9kv3JUroUu9bQnDJrSHwAPbt3EETaQi8TjL9rBBpF9wRsAF
+緯來日本,tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
+星衛娛樂台,tvbus://6XMK9ZQymVRsT43shjgXz1D7JypzNN5kACurefZNF5ihwrBxqXvyErS3QJkZr
+星衛娛樂台 b,tvbus://7KKrc2NvRebrNFkLrCgdjcGJUXdXnBxTMEF14cWy4wUJZCyA7E
+星衛電影台,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
+星衛電影台 b,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
+美亞電影台,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
+韓國娛樂台,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
+動物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
+探索频道,tvbus://6Txg1fvUdyUvVQMo9yNXBTh1uwokDAqG4fD9X8Ww6tthHGKtUMjAy1ARQRyB7
+探索頻道 b,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F
+探索亞洲,tvbus://67zjm3ScZsgzCy1q6td5sR6NRSskv1cj3fUwEyZbqL84VAtQTYRik6ukRJacM
+探索亞洲 b,tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
+探索科學,tvbus://6CCSwQ923yP9J91sY94fxSeg9ks8gsnccVJkSKMFZCiU8UpmgToYYF5feyWqF
+探索科學 b,tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
+國家地理頻道,tvbus://5pbKHNJoUr11PKU8cjdTBEtZLXSHiybnhzijoQKe7SwKBibdwtjjHwagjsgfp
+國家地理頻道 b,tvbus://6K4Hz43ew43P2xcNrqmZjjhprcWn8eH8U6HMzjk1TBagpd5Xg7jvCbjimN58W
+國家地理悠人頻道,tvbus://5m7TtafZKHo75EiC1uq3Sh6A7iqESKd6XH6oTRoiuZEaoxNX4zmfQ6zNF1t4G
+國家地理悠人頻道 b,tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
+國家地理野生頻道,tvbus://5mCzngrHffNW5Vg78ggmwUbrPpNeSNbtERQz7HefJp33QgcNocfMEnjhspuEg
+國家地理野生頻道 b,tvbus://5oRJxmZ4F1mga6wmLhCEkCZDiJWrbydZc9rvG4eynVwHRLqgKW38fVjchKJML
+好萊塢電影,tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
+罪案偵緝頻道,tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
+華納電影,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
+迪士尼頻道,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
+CN卡通頻道,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
+龍華戲劇,tvbus://5bBUJ3ztc56iCX5ZBkbapFa2Be5D7LXUi2sa6F29oghRGfcnS3sUXZGogQLTU
+龍華電影,tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
+龍華動畫,tvbus://61YbuC57vn89TinNh2chcuyhwV1QVQCiNwKLMsrzLiJTKNCry5iJRZGS7yQWb
+龍華洋片,tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
+龍祥時代,tvbus://6LPRczsLaX5Zg1GATf3R7g3osN4z6dcFHa5E17sM1keh6C3bc64jpUv2MxMFM
+靖天電影台,tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
+靖天映畫,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
+靖洋戲劇台,tvbus://6ZBX5si4NTQrSwWLTk2qkedmK6EmeYQNaeRyKkQjuhDTzp1uTmM1TLQK5KWQK
+博斯無限 ,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
+博斯網球,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
+博斯運動 I,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
+博斯運動 II,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
+博斯高球 I,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
+博斯高球 II,tvbus://5t1Uomh2j6K968yHGVrUB1jbtdaWNd5N18rzukGPteDboYDPeT4WFtwyA1QWg
+博斯高球 II b,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+Eleven Sport,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
+Eleven Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
+AFN亚洲美食频道,tvbus://5cnGsb1zt9JnveQhexaWWPVG84Tdf1eXynqTXH3sCK7WvHqExgLGvdKMfUejC
+AXN,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
+BBC Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m
+BBC Lifestyle Channel,tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at
+Bloomberg TV,tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
+BOOMERANG,tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF
+CatchPlay電影台,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARUPM9Ymix7
+CINEMAX,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U
+CNBC Asia Channel,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
+CNN,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
+DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
+Fight Sport,tvbus://5bPPQaxBZozxSDVUDR32yxFaKRyMCuFfDwF4e4bkbXgUkzMcgLAvCxtCwVRSG
+FOX Action Movies,tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
+FOX CRIME,tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
+FOX Movies,tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
+FOX体育1台,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
+FOX体育2台,tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
+FOX体育3台,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
+FOX家庭電影台,tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA
+FOX頻道,tvbus://6YLw3eozv6kQqv9CcB3Vneu2Tt5qkSjUUxQLaAfiS5dy8oAwi7MAjrk1GbxN1
+FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
+GOLF,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
+History,tvbus://5e5WsYxPHbGNzugLb4WNbiJx523VzgDtGXd9L44e5YUKwLuKHLgR4R3xdPYYZ
+H2,tvbus://5L1Qtycxg7RW5cwZtEmTjCrcgq3Zb65g5iqEEAUmkmEkXG9Dzoori39SwjrQL
+H2 b,tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
+HBOHD,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
+HBO原創,tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
+HBO家庭,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw
+HBO強檔,tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
+NBA直播,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
+MTV Live,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+nick jr(English),tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+Outdoor,tvbus://5UYzSz2kzSGzc9vkM1LT7PtymykeXz3Kh5sHDkBEVWKjzUw4ToJQ3GNU9RKU8
+TLC旅遊生活_HD,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
+tvN,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
+Z频道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
+TV5 Monde,tvbus://5ZptEgK1WhAMbC6MSyKRkh3g86ue4QGyivHyzmQAiM4ZqWrDmd1fmEEBHY1qz
+TV5MONDE ASIE,tvbus://6i1xPwMpsKmbkkvoVXzfvXsuLEPU2f8M8xksjnp6KWk1ezWyHEMwhvptpw3Qk
+原住民台,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
+客家電视台,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
+高點綜合,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
+大爱,tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
+大爱二台,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
+天映經典台,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
+好消息1,tvbus://6YiSzVwiq16zWXXvnKrCoi9nJQBL1cfceKLV98aieTr7mdfg4rbwkfw8WHn5w
+好消息2,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
+國興衛視,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
+國會頻道1,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
+國會頻道2,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
+霹靂台灣台,tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
+天良電視,tvbus://6HuWv4rr8ssXkk8Jispkger9oL3rzFF2xYh8gbfC8po3a7nQQKir5PWgdG33N
+人間衛視,tvbus://5uA9xkrnZnnrQq4kwjDfkEvX9m1h929DSFnFiJACuAXDiyKWDh8Mv2QEMwzvn
+信吉电视,tvbus://6L2fCTYcrs5mczG5gBGvqUB5kbm8HpHvzPJwX5LUdXuNCh6Yee6tswSUFEKwr
+希望電視台,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
